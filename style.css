@@ -1,0 +1,14 @@
+body{
+    margin:0;
+    background:black;
+    color:white;
+    overflow:hidden;
+    font-family:Arial,sans-serif;
+}
+
+.status{
+    position:fixed;
+    top:10px;
+    left:10px;
+    z-index:999;
+}
